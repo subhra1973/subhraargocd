@@ -30,6 +30,3 @@ spec:
   - protocol: TCP
     port: 80
   type: NodePort
-
-Blog
-About
